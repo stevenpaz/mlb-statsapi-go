@@ -1,7 +1,7 @@
 # mlb-statsapi-go
 Go wrapper for the MLB Stats API, inspired by toddrob99's Python implementation.
 
-Created by Steven Paz <steven@stevenpa.com>
+Created by Steven Paz.
 
 Issues: 
 
