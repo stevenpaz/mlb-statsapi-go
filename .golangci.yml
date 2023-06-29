@@ -1,0 +1,14 @@
+linters:
+  enable-all: true
+  disable:
+    #deprecated golangci-lint linters
+    - deadcode
+    - exhaustivestruct # replaced by exhaustruct
+    - golint # replaced by revive
+    - interfacer
+    - ifshort
+    - maligned # replaced by fieldalignment
+    - nosnakecase # replaced by revive's var-naming
+    - structcheck
+    - varcheck # replaced by unused
+    - depguard # not needed

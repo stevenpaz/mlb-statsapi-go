@@ -1,0 +1,9 @@
+version: '3'
+
+tasks:
+  lint:
+    cmds:
+      - golangci-lint run
+  build:
+    cmds:
+      - echo "Hello World"
