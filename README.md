@@ -3,9 +3,6 @@ Go wrapper for the MLB Stats API, inspired by toddrob99's Python implementation.
 
 Created by Steven Paz.
 
-Issues: 
-
-
 ## Contributing
 
 Please refer to the [contributing.md](https://github.com/stevenpaz/mlb-statsapi-go/blob/main/Contributing.md) file for information about how to get involved. I welcome issues, questions, and pull requests.
